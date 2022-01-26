@@ -22,13 +22,13 @@
     "url": "git+https://github.com/djizco/mern-boilerplate.git"
   },
   "author": {
-    "name": "Federico Rojas",
-    "email": "djizco@yahoo.com",
-    "url": "https://github.com/djizco"
+    "name": "April Yax",
+    "email": "aprilyax@gmail.com",
+    "url": "https://github.com/aprilyax"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/djizco/mern-boilerplate/issues"
+    "url": "https://github.com/aprilyax"
   },
   "keywords": [
     "react",
@@ -42,7 +42,7 @@
     "eslint",
     "jest"
   ],
-  "homepage": "https://github.com/djizco/mern-boilerplate#readme",
+  "homepage": "https://github.com/aprilyax/MERN_boilerplate#readme",
   "engines": {
     "node": ">=12.0.0"
   },
@@ -69,6 +69,7 @@
     "json-style-converter": "^1.0.3",
     "mongoose": "^6.0.7",
     "mongoose-auto-increment-reworked": "^1.2.1",
+    "node": "^17.4.0",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "prop-types": "^15.7.2",
